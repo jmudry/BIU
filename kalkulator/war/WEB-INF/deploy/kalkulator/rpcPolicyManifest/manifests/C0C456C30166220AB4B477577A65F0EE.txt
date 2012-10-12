@@ -1,0 +1,2 @@
+serviceClass: com.jairek.kalkulator.client.EngineService
+path: 1591DF66E45766941AA65D5199B3EF8F.gwt.rpc

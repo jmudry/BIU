@@ -1,0 +1,2 @@
+serviceClass: com.jairek.kalkulator.client.GreetingService
+path: F65F91CFE888DF3EC82415FC57472B12.gwt.rpc
